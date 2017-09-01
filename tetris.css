@@ -1,0 +1,27 @@
+.tetris{
+	display: flex;
+	display: -webkit-flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+	align-content: space-between;
+	border:solid 4px;
+	background-color:black;
+	width:407px;
+	height:458px;
+}
+
+.none,.exist,.firm{
+	width:50px;
+	height:50px;
+}
+
+.none{
+	background-color:darkgray;
+}
+
+.exist{
+	background-color:white;
+}
+.firm{
+	background-color:dimgray;
+}
