@@ -8,3 +8,5 @@
 
 バグ報告お待ちしております.<br>
 2018/2/12
+
+This is the commit by another branch named "testing."
