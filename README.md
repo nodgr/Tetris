@@ -9,4 +9,4 @@
 バグ報告お待ちしております.<br>
 2018/2/12
 
-another change.
+This is the commit by another branch named "testing."
