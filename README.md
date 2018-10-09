@@ -1,5 +1,4 @@
 # Tetris
-制作者:刷木(@nodgr)<br>
 最近習い始めたJavaScriptの練習で作ったゲーム.<br>
 以下、操作説明<br>
 ・移動:十字キー左右<br>
